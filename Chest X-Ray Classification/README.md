@@ -20,7 +20,8 @@ You can install the required libraries using pip:
 pip install -r requirements.txt
 ```
 ## Dataset
-[https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia](Chest-X-Ray)
+[Chest-X-Ray]([https://github.com/Asma-Nasr/Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia))
+
 ## Usage
 To run the notebooks, you can either:
 
