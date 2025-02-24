@@ -1,4 +1,4 @@
-# Rixe Image Classification
+# Rice Image Classification
 Rice Image Classification using Tensorflow Pretrained VGG19 model.
 
 ## Table of Contents
