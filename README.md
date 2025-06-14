@@ -6,6 +6,7 @@ Welcome to the Kaggle Notebooks Project! This repository contains a collection o
 
 - [Getting Started](#getting-started)
 - [Requirements](#requirements)
+- [Notebooks](#Notebooks)
 - [Usage](#usage)
 
 ## Getting Started
@@ -19,6 +20,10 @@ You can install the required libraries using pip:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Notebooks
+
+[Alzheimer's](https://github.com/Asma-Nasr/Kaggle/tree/main/Alzheimer's)
 
 ## Usage
 To run the notebooks, you can either:
