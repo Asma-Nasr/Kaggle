@@ -29,7 +29,7 @@ pip install -r requirements.txt
 [Breast Cancer Classification](https://github.com/Asma-Nasr/Kaggle/tree/main/Breast%20Cancer%20Classification) \
 [Cardiac Arrest Detection](https://github.com/Asma-Nasr/Kaggle/tree/main/Cardiac%20Arrest%20detection) \
 [Chest X-Ray Classification](https://github.com/Asma-Nasr/Kaggle/tree/main/Chest%20X-Ray%20Classification) \
-[Covid 19 Image Classification](https://github.com/Asma-Nasr/Kaggle/tree/main/Covid%2019%20Image%20Classification) \
+[Covid 19 Image Classification](https://github.com/Asma-Nasr/Kaggle/tree/main/Covid%2019%20Image%20Classification) 
 
 ## Usage
 To run the notebooks, you can either:
