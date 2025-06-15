@@ -33,7 +33,14 @@ pip install -r requirements.txt
 [Depression Detection](https://github.com/Asma-Nasr/Kaggle/tree/main/Depression%20Detection) \
 [Driver Drowsiness](https://github.com/Asma-Nasr/Kaggle/tree/main/Driver%20Drowsiness) \
 [Dry Eye Insights and Classification](https://github.com/Asma-Nasr/Kaggle/tree/main/Dry%20Eye) \
-[Emotion Classification](https://github.com/Asma-Nasr/Kaggle/tree/main/Emotions)
+[Emotion Classification](https://github.com/Asma-Nasr/Kaggle/tree/main/Emotions) \
+[Grapevine Leaves Classification](https://github.com/Asma-Nasr/Kaggle/tree/main/Grapevine%20Leaves%20Classification) \
+[Hypertension Risk](https://github.com/Asma-Nasr/Kaggle/tree/main/Hypertension%20Risk) \
+[IRIS Classification](https://github.com/Asma-Nasr/Kaggle/tree/main/IRIS%20Classification) \
+[Indian House Price](https://github.com/Asma-Nasr/Kaggle/tree/main/Indian%20House%20Price) \
+[Insects Classification](https://github.com/Asma-Nasr/Kaggle/tree/main/Insects%20Classification) \
+[Intel Image Classification](https://github.com/Asma-Nasr/Kaggle/tree/main/Intel%20Image%20Classification) \
+[Lung Cancer Detection](https://github.com/Asma-Nasr/Kaggle/tree/main/Lung%20Cancer%20Detection)
 
 ## Usage
 To run the notebooks, you can either:
