@@ -50,7 +50,11 @@ pip install -r requirements.txt
 - [Rice Image Classification](https://github.com/Asma-Nasr/Kaggle/tree/main/Rice%20Image%20Classification)
 - [Thyroid Cancer Risk](https://github.com/Asma-Nasr/Kaggle/tree/main/Thyroid%20Cancer%20Risk)
 - [Vegetable Classification](https://github.com/Asma-Nasr/Kaggle/tree/main/Vegetable%20Classification)
-- [Vehicle Detection](https://github.com/Asma-Nasr/Kaggle/tree/main/Vehicle%20Detection) 
+- [Vehicle Detection](https://github.com/Asma-Nasr/Kaggle/tree/main/Vehicle%20Detection)
+- [Alzheimer's Detection](https://github.com/Asma-Nasr/Kaggle/blob/main/alzheimer-s-detection.ipynb)
+- [Diabetes in India](https://github.com/Asma-Nasr/Kaggle/blob/main/diabetes-in-india.ipynb)
+- [Heart Disease](https://github.com/Asma-Nasr/Kaggle/blob/main/heart-disease.ipynb)
+- [Panic Attack](https://github.com/Asma-Nasr/Kaggle/blob/main/panic-attack-rf-bm.ipynb)
 
 
 ## Usage
