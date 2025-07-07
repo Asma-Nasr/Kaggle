@@ -46,6 +46,7 @@ pip install -r requirements.txt
 - [Lung Cancer](https://github.com/Asma-Nasr/Kaggle/tree/main/Lung%20Cancer)
 - [Obesity Prediction](https://github.com/Asma-Nasr/Kaggle/tree/main/Obesity%20Prediction)
 - [Personality Prediction](https://github.com/Asma-Nasr/Kaggle/tree/main/Personality%20Prediction)
+- [Predict the Introverts from the Extroverts](https://github.com/Asma-Nasr/Kaggle/tree/main/Predict%20the%20Introverts%20from%20the%20Extroverts)
 - [Predicting Optimal Ferilizers](https://github.com/Asma-Nasr/Kaggle/tree/main/Predicting%20Optimal%20Ferilizers)
 - [Rice Image Classification](https://github.com/Asma-Nasr/Kaggle/tree/main/Rice%20Image%20Classification)
 - [Thyroid Cancer Risk](https://github.com/Asma-Nasr/Kaggle/tree/main/Thyroid%20Cancer%20Risk)
