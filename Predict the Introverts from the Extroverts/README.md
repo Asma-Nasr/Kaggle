@@ -1,5 +1,5 @@
 # Predict the Introverts from the Extrovert
-  
+Predict the Introverts from the Extrovert by Random Forest/ XGB
 ## Dataset
 [Dataset](https://www.kaggle.com/competitions/playground-series-s5e7/data)
 
