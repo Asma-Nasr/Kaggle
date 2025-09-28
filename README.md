@@ -1,7 +1,7 @@
 # Kaggle Notebooks Project
 Welcome to the Kaggle Notebooks Project! This repository contains a collection of Jupyter notebooks used for various data analysis, machine learning, and exploration tasks on Kaggle datasets.
 
-
+ 
 ## Table of Contents
  
 - [Getting Started](#getting-started)
